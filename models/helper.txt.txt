@@ -1,0 +1,6 @@
+Put the Dreamshaper and revAnimatedv2Rebirth model in this folder.
+
+Download Dreamshaper : https://civitai.com/models/4384/dreamshaper
+
+
+Download revAnimatedv2Rebirth : https://civitai.com/models/7371/rev-animated
