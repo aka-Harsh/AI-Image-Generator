@@ -7,12 +7,13 @@
 ![Web3](https://img.shields.io/badge/Web3-Enabled-purple.svg)
 ![Status](https://img.shields.io/badge/status-active-green.svg)
 
-A cutting-edge AI image generation platform that combines multiple state-of-the-art Stable Diffusion models with Web3 blockchain technology. Generate stunning artwork with advanced safety features, cloud storage, and mint your creations as NFTs on the blockchain.
+An end to end AI image generation platform leveraging dual Stable Diffusion architectures (ReV Animated for anime-style artwork, DreamShaper for photorealistic imagery) with GPU-accelerated inference, enterprise-grade AWS S3 cloud integration, intelligent content moderation systems, and native blockchain NFT creation on Polygon network. Developed using PyTorch framework, Gradio interface, and Web3 smart contract protocols to deliver end-to-end digital asset generation and cryptographic ownership verification.
 
 ---
 ## 🎥 Video Demo
 
-*[Demo video will be added here showcasing all features]*
+https://github.com/user-attachments/assets/8543b145-58dd-4981-914d-73c41958620d
+
 
 ---
 
@@ -325,7 +326,15 @@ curl https://rpc-mumbai.maticvigil.com/
 
 ## 🔭 Project Outlook
 
-*[Screenshots will be added here showing the application interface, generation process, and NFT minting]*
+
+![Image](https://github.com/user-attachments/assets/db54a638-9fe7-46fd-802e-759e078e808e)
+![Image](https://github.com/user-attachments/assets/f858d596-d51e-42a0-a582-dca5aad2a9fb)
+![Image](https://github.com/user-attachments/assets/397b3597-ffc4-436a-aea0-0654531950c7)
+![Image](https://github.com/user-attachments/assets/327071a6-650b-409c-ab3e-e51d446378e6)
+![Image](https://github.com/user-attachments/assets/c46eb96e-7283-44f4-9897-4599069c5d3a)
+![Image](https://github.com/user-attachments/assets/62600a19-c00f-43d2-a677-68c324ad201e)
+![Image](https://github.com/user-attachments/assets/a6dff5bc-ac51-4e82-88c7-0cfd9509becb)
+![Image](https://github.com/user-attachments/assets/54148c6c-7371-4a7a-84ef-71bf845090dd)
 
 ---
 
